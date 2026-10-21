@@ -1,4 +1,4 @@
-# Arabic Legal Document Classification
+# Arabic Legal Document Classification Using NLP
 
 A team academic project exploring Arabic NLP for two classification tasks on the ALARB Saudi commercial-court dataset:
 
