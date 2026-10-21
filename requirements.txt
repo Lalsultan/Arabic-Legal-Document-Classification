@@ -1,0 +1,14 @@
+numpy==1.26.4
+pandas
+matplotlib
+seaborn
+datasets
+pyarabic
+nltk
+scikit-learn
+gensim
+arabic-reshaper
+python-bidi
+tensorflow
+jupyterlab
+# Optional sections: transformers, torch, gradio
